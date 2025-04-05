@@ -4,3 +4,9 @@ langchain_community
 langchain_groq
 wikipedia
 numexpr
+pymupdf
+unstructured
+sentence-transformers
+Faiss-cpu
+python-dotenv
+langchain-huggingface
